@@ -1,16 +1,16 @@
 # Age checking
 
-# personA = input("Please enter your name here : ")
-# personA_age = int(input(f"{personA}, please enter your age here: "))
+personA = input("Please enter your name here : ")
+personA_age = int(input(f"{personA}, please enter your age here: "))
 
 
-# personB = input("Please enter your partner name here : ")
-# personB_age = int(input(f"{personB}, please enter your age here: "))
+personB = input("Please enter your partner name here : ")
+personB_age = int(input(f"{personB}, please enter your age here: "))
 
-# if personA_age > personB_age :
-#     print(personA , " you are older then " , personB)
-# else :
-#      print(personB , " you are older then " , personA)
+if personA_age > personB_age :
+    print(personA , " you are older then " , personB)
+else :
+     print(personB , " you are older then " , personA)
 
 # BMI Calculator
 
